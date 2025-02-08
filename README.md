@@ -59,3 +59,21 @@ These may include email, social media, and other channels.
 4. Total Rides per Day: Calculated the total no. of rides per each day of the month for members and casuals 
 5. Total Rides per Bike Type: Calculated the total no. of rides per bike type for members and casuals
 
+## Analyze
+
+### Documentation
+* The aggregation, organization and formatting of the data was done using R, and so were the corresponding calculations
+* The entire process is documented in R_Script_I.
+
+## Share
+
+### Data Visualization
+* The changes made to the R Script for the data visualization process are documented in R_Script_II.
+* The dashboard created using Tableau can be accessed using this [link]
+
+## Act
+
+### Next Steps: Strategy to Convert Casual Riders to Annual Members
+* Personalize discounts and effectively highlight the perks of the membership program based on the riders' preferences and riding habits.
+* Discounts would work best during busy times of the year, like during the summer months or on weekends.
+* Have current members share their stories about how being an active part of Cyclistic changed their life and to create a sense of community for newer members to feel more welcome.
