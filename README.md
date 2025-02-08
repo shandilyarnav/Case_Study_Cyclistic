@@ -69,7 +69,14 @@ These may include email, social media, and other channels.
 
 ### Data Visualization
 * The changes made to the R Script for the data visualization process are documented in R_Script_II.
-* The dashboard created using Tableau can be accessed using this [link]
+* The dashboard created using Tableau can be accessed using this [link](https://public.tableau.com/app/profile/arnav.shandilya/viz/Case_Study_Cyclistic_17390290136070/Dashboard1)
+
+### Final Conclusion
+* The **members** had the most rides **(56% of total rides)**.
+* The **classic bike** was the most popular bike type. But for casual riders specifically **docked bikes** were the most popular bike type.
+* **Weekends** were the most popular days, with **Saturday** being the most popular day for both users.
+* Casual riders showed great variation in weekly bike usage, with a **standard deviation of 95623.17**, roughly **37% of the mean (260481.71)**. While members show much more constant usage, with a **standard deviation of 22714.02**, roughly **6.83% of the mean (332680.43)**.
+* **Summer (June - August)** was the busiest season for both users, with the most number of bike rides in **July**.
 
 ## Act
 
