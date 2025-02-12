@@ -63,12 +63,12 @@ These may include email, social media, and other channels.
 
 ### Documentation
 * The aggregation, organization and formatting of the data was done using R, and so were the corresponding calculations
-* The entire process is documented in R_Script_I.
+* The entire process is documented in [R_Script_I.R](https://github.com/shandilyarnav/Case_Study_Cyclistic/blob/main/R_Script_I.R).
 
 ## Share
 
 ### Data Visualization
-* The changes made to the R Script for the data visualization process are documented in R_Script_II.
+* The changes made to the R Script for the data visualization process are documented in [R_Script_II.R](https://github.com/shandilyarnav/Case_Study_Cyclistic/blob/main/R_Script_II.R).
 * The dashboard created using Tableau can be accessed using this [link](https://public.tableau.com/app/profile/arnav.shandilya/viz/Case_Study_Cyclistic_17390290136070/Dashboard1)
 
 ### Final Conclusion
